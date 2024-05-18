@@ -2,9 +2,9 @@ version: 0.2
 
 env:
   parameter-store:
-    DOCKER_REGISTRY_USERNAME: /python-app/docker_url
-    DOCKER_REGISTRY_PASSWORD: /python-app/docker_username
-    DOCKER_REGISTRY_URL: /python-app/docker_password
+    DOCKER_REGISTRY_USERNAME: /python-app/docker_username
+    DOCKER_REGISTRY_PASSWORD: /python-app/docker_password
+    DOCKER_REGISTRY_URL: /python-app/docker_url
 phases:
   install:
     runtime-versions:
