@@ -1,19 +1,19 @@
 
 what is cloud?
 Using virtual resources(servers,storage service etc,today aws have more than 200 services) which are created by system adminstor using virtualizer on datacenter 
-and you don't have idea on where the datacenter present. this concept is called as cloud.
+and you don't have idea on where the datacenter is present. this concept is called as cloud.
 
 what is datacenter?
 datacenter is colletion of resources(resources are cup,memory disk etc),
 using virtualization tool(vpshere is one of virtualization tool) create the servers and provide the details of server to use it.
 
 Private cloud or on premises?in simple term, using their own datacenters and building their own cloud
-In any organization,they have their own datacenter and managing it,dedicated team create servers and give to their employees to use within 
+In any organization,they have their own datacenter and managing it by dedicated team ,creating servers and give to their employees to use within 
 their network and outside of poeple don't access to servers. this concept is called private cloud. 
-it is your team and your organization maintaining that cloud.
+it is your team and your organization maintaining that datacenter.
 
 Public cloud?
-if you have account in our cloud platform,allow any one and any place to create and use the virtual server.
+if you have account in our cloud platform,allow him and from any place to create and use the virtual resouces(example server,storage etc).
 why we called public mean any one in world have account in their cloud platform allow them to create and user virtual servers.
 this concept public cloud. 
 No need to warry about the maintaining any datacenter.
@@ -23,10 +23,12 @@ Ex: aws, azure and Google cloud operator,oracle,digital occean
 
 Why public cloud is so popular?
 1)No need to maintain any resources from user end.
-2)cost optimizatio -> need to play on how much resource we have used.
+2)cost optimization -> need to play on how much resource we have used.
 
 How aws is better than others?
 aws is first company bring this cloud concept and making success on it.
 Many companies are using aws,there is more job opportunities.
+
+
 
 
